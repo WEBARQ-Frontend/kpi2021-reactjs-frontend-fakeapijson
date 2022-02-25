@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Romy Rudiansah",
+      "alamat": "Bogor",
+      "umur": 25,
+      "nohp": "08962122222100"
+    },
+    {
+      "id": 2,
+      "nama": "Iqbal",
+      "alamat": "Cisarua",
+      "umur": 25,
+      "nohp": "08962122222110"
+    },
+    {
+      "id": 3,
+      "nama": "Harlan",
+      "alamat": "Ciomas",
+      "umur": 27,
+      "nohp": "08962122222111"
+    },
+    {
+      "id": 4,
+      "nama": "Rizky",
+      "alamat": "Cibinong",
+      "umur": 27,
+      "nohp": "08962122222112"
+    },
+    {
+      "id": 5,
+      "nama": "Desi",
+      "alamat": "Jakarta",
+      "umur": 25,
+      "nohp": "08962122222113"
+    },
+    {
+      "id": 6,
+      "nama": "Bariqi",
+      "alamat": "Jakarta",
+      "umur": 28,
+      "nohp": "08962122222114"
+    },
+    {
+      "id": 7,
+      "nama": "Ghalia",
+      "alamat": "Jonggol",
+      "umur": 27,
+      "nohp": "08962122222115"
+    },
+    {
+      "id": 8,
+      "nama": "Andri",
+      "alamat": "Jasinga",
+      "umur": 28,
+      "nohp": "08962122222116"
+    },
+    {
+      "id": 9,
+      "nama": "Bayu",
+      "alamat": "Sukasari",
+      "umur": 23,
+      "nohp": "08962122222117"
+    },
+    {
+      "id": 10,
+      "nama": "Icut",
+      "alamat": "Jakarta",
+      "umur": 28,
+      "nohp": "08962122222118"
+    },
+    {
+      "id": 11,
+      "nama": "Okte",
+      "alamat": "Padang",
+      "umur": 27,
+      "nohp": "08962122222119"
+    }
+  ]
+}
